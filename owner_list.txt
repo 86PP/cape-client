@@ -1,1 +1,1 @@
-donator https://meteorclient.com/capes/donator.png
+donator https://raw.githubusercontent.com/Lurbyy/cape-client/main/donator.png
