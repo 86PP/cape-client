@@ -1,1 +1,2 @@
 donator https://raw.githubusercontent.com/Lurbyy/cape-client/main/donator.png
+donator1 https://raw.githubusercontent.com/Lurbyy/cape-client/main/donator1.png
